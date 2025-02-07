@@ -16,11 +16,11 @@ const About = () => {
           <ul>
             <div className="flex gap-3 py-4">
               <span className="w-126">
-                <h1 className="text-xl md:text-3xl font-semibold leading-normal">
+                <h1 className="text-xl md:text-3xl font-semibold leading-normal mb-4">
                   Software Engineer
                 </h1>
                 <p className="text-sm md:text-2xl leading-tight">
-                Passoinate about developing scalable web applications and continuous learner to keep upto date with the latest evolving technologies.Seeking opportunities for entry level web developer roles to kick-start my career in web development.I am passionate about learning new things, adding creativity there by exhibiting the value additon qualities to the organization.
+                Passoinate about developing scalable web applications and continuous learner to keep upto date with the latest evolving technologies.Seeking opportunities for entry level web developer roles to kick-start my career in web development. I am passionate about learning new things, adding creativity there by exhibiting the value additon qualities to the organization.
                 </p>
               </span>
             </div>

@@ -5,7 +5,7 @@ const Navbar = () => {
   const [showMenu, setShowmenu] = useState(true);
   return (
     <nav className="flex flex-wrap justify-between md:items-center text-white px-10 pt-6 md:px-20">
-      <span className="text-2xl font-bold tracking-wide">Portfolio</span>
+      <span className="text-2xl font-bold tracking-wide">AG-Portfolio</span>
 
       <ul
         className={`${
@@ -19,7 +19,7 @@ const Navbar = () => {
         </a>
         <a href="#Experience">
           <li className="text-xl transition-all duration-300 p-1 md:p-0">
-            Experience
+            Skills
           </li>
         </a>
         <a href="#Projects">
